@@ -1,0 +1,30 @@
+{
+  "name": "block-chain-project",
+  "version": "1.0.0",
+  "description": "Block-Chain project to get the list of all the top 100 cryptocurrency coins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pooja-sisodia/Block-chain-Project.git"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Pooja Sisodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pooja-sisodia/Block-chain-Project/issues"
+  },
+  "homepage": "https://github.com/Pooja-sisodia/Block-chain-Project#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
